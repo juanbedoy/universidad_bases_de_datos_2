@@ -1,4 +1,4 @@
-# 🚀 ScriptBDUniversity
+# 🚀 UNIVERSIDAD BASES DE DATOS 2
 
 ## 📌 Descripción del Proyecto
 Este repositorio contiene los respaldos de las bases de datos **Jardinería** y **StagingBD2**, utilizadas en el desarrollo de un modelo dimensional basado en la estructura de un **Data Mart**. El objetivo de este proyecto es mejorar la eficiencia en el análisis de datos de ventas y optimizar la consulta de información a través de un modelo estrella.
@@ -65,7 +65,5 @@ El modelo propuesto se basa en la implementación de una estructura **estrella**
 - 📖 **Documentación detallada del modelo implementado**.
 
 ## ✍️ Autor
-Este trabajo ha sido desarrollado como parte del curso de **Bases de Datos 2** en el contexto de la implementación de modelos dimensionales y Data Marts (MARIA JOSE CAUSIL).
-
-
+Este trabajo ha sido desarrollado como parte del curso de **Bases de Datos 2** en el contexto de la implementación de modelos dimensionales y Data Marts (JUAN PABLO BEDOYA , FERNEY RODRIGO MARIN).
 
